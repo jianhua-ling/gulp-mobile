@@ -21,6 +21,8 @@
   "homepage": "https://github.com/jianhua-ling/gulp-mobile#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-file-include": "^1.0.0"
+    "gulp-file-include": "^1.0.0",
+    "gulp-rev-ayou": "^1.0.1",
+    "gulp-rev-collector-ayou": "^1.0.0"
   }
 }
